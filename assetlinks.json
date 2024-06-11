@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.tvcz.r2048.twa",
+      "sha256_cert_fingerprints": [
+        "11:9B:72:2C:2A:AA:81:AB:1E:26:7D:8C:21:33:78:18:42:FE:5F:75:92:7D:6E:EF:EC:0B:99:5D:0D:3E:68:84"
+      ]
+    }
+  }
+]
